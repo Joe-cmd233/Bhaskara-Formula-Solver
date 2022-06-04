@@ -1,0 +1,37 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url("back.png");
+    align-items: center;
+}
+  
+h5 {
+    color:rgb(168, 223, 255);
+    font-family: "Muli-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1 {
+    color:rgb(168, 223, 255);
+    font-family: "Muli-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.a {
+    display: inline-block;
+    vertical-align: left;
+  }
+  
+.b {
+    display: inline-block;
+    vertical-align: middle;
+  }
+.c {
+    display: inline-table;
+    vertical-align: middle;
+
+}
+.wc {
+    display: inline-table;
+    vertical-align: middle;
+    font-size: 20px;
+    color:rgb(168, 223, 255);
+    font-family: "Muli-Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
